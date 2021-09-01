@@ -1,0 +1,286 @@
+*{ font-size: 20px;
+    box-sizing: border-box;
+    
+}
+.first-button {
+    float: left;
+    border: 1px solid black;
+    border: none;
+    border-radius: 20px;
+    height: 38px;
+    width: 15%; color: white;
+    background-color: rgb(16, 180, 125);
+    margin: 20px;
+    text-align: center;
+    padding: 6px;
+    font-size: 15px;
+} 
+
+
+
+.icons{
+
+    text-align: left;
+    margin: 10px;
+    padding: 0px;
+   
+    
+}
+.icons2{
+    letter-spacing: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+  
+}
+.search-button{
+    border: 1px solid grey;
+    border-radius:20px;
+    background-color: white;
+    color:grey;
+    height: 40px;
+    width: 300px;
+    float:left;
+    text-align: left;
+    padding: 5px;
+    padding-left: 8px;
+   
+    
+   
+    
+}
+.container2 {
+    background-color:white;
+    height:auto; 
+    color: grey;
+    margin-top: 0px; 
+    /* column-gap: 3px;  */
+    
+    
+
+}
+
+
+.right-row {
+    float: left;
+    height:500px;
+    padding: 40px;
+    border-bottom: 1px solid grey;
+    border-top: none;
+    border: 1px solid grey;
+    width: 610px;
+    background-color: white;
+   
+    
+}
+.first-row {
+  border: 1px solid grey;
+  padding: 50px;
+  height: 350px;
+  background-color: white;
+  margin-top: 20px;
+  border-right: none;
+  
+  
+}
+.last-right {
+    height: 650px;
+    float: left;
+    padding: 40px;
+    border: 1px grey solid;
+    border-top: none;
+    margin-right: 10px;
+    width: 610px;
+    background-color: white;
+}
+.pic-icons  img{
+    border: 6px solid rgb(86, 167, 167);
+    height: 120px;
+    width: 120px;
+    float: left;
+    border-radius: 50%;
+    
+
+  
+}
+.pic-icons2 img {
+    border: 6px solid rgb(248, 226, 32);
+    height: 120px;
+    width: 120px;
+    float: left;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.pic-icons3 img {
+    border: 6px solid red;
+    height: 120px;
+    width: 120px;
+    float: left;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.chat-for-icons {
+    background-color: rgb(241, 252, 255);
+    height:230px;
+    width: 400px;
+    margin-top: 60px;
+    padding: 20px;
+}
+.smaller-icons img{
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: left;
+    object-fit: cover;
+    border: none;
+    margin-top: 60px;
+
+} 
+
+
+.firstpart{ 
+    text-align: center;
+    border: 1px solid grey;
+    padding: 20px;
+    background-color: rgb(241, 252, 255);
+    height: 400px;
+    border-right: none;
+    
+    
+   
+}
+.lastcol{
+    border: 1px solid grey;
+    padding: 37px;
+    background-color: rgb(241, 252, 255);
+    height: 400px;
+    border-bottom: none;
+    
+}
+.divfor-search {
+   padding: 25px;
+   border: 1px solid grey;
+   height: 80px;
+   border: none;
+   /* border-right: 1px grey solid; */
+   background-color: white;
+   
+
+  
+  
+   
+}
+.container-fluid{
+    background-color:white;
+    color: grey;
+    
+    
+}
+
+   .b-right{
+       border-right: 1px grey solid;
+   } 
+
+
+.paragraph{
+    width: 45%;
+}
+
+.workroom {
+    margin-top: 20px;
+}
+.picture img {
+object-fit: cover;
+height: 170px;
+width: 320px;
+}
+.button2{
+    border: 1px solid black;
+    border: none;
+    border-radius: 20px;
+    height: 33px;
+    width: 130px; color: white;
+    background-color: rgb(16, 180, 125);
+    margin: 20px;
+    text-align: center;
+    padding: 4px;
+    font-size: 17px;
+}
+.button3{
+    border: 1px solid black;
+    border: none;
+    border-radius: 20px;
+    height: 33px;
+    width: 130px; color: white;
+    background-color: rgb(248, 226, 32);
+    margin: 20px;
+    text-align: center;
+    padding: 4px;
+    font-size: 17px;
+}
+.button4{
+    border: 1px solid black;
+    border: none;
+    border-radius: 20px;
+    height: 33px;
+    width: 130px; color: white;
+    background-color: red;
+    margin: 20px;
+    text-align: center;
+    padding: 4px;
+    font-size: 17px;
+
+}
+.dollars{
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: larger;
+}
+.sec-row{
+    border: 1px solid grey;
+    padding: 50px;
+    height: 350px;
+    background-color: rgb(241, 252, 255);
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
+   
+}
+.picture2 img{
+    object-fit: cover;
+    height: 300px;
+    width: 520px;
+}
+
+.approve{
+    border: 1px solid grey;
+    border-radius:20px;
+    height: 38px;
+    width: 120px;
+    float: right;
+    margin-top: -40px;
+    object-fit: cover;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
+
+
+
+/* <div class="row no gutters">
+                <div class="col-md-8">
+                    <div class="divfor-search">
+                        <div class="search-button">Search videos</div>
+                        <span style="float: right;">Sort by: <b>Newest</b></span>
+                    </div>
+                    <div class="first-row">
+                        <div class="forpics">
+                            <div class="pic-icons img"><img src="Jennifer-Aniston.jpeg"></div>
+                        </div>
+                    </div>
+                </div>
+            </div> */
+
+            <div class="icons"><i class="fas fa-sd-card"></i></div>

@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML IMAGE</h2>
+<img src="CAPT UL OHAKWE.jpeg" width="500" height="333">
+
+</body>
+</html>
